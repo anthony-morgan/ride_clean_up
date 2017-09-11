@@ -1,0 +1,10 @@
+development:
+  store: rideouterwear.myshopify.com
+  password: eb88da9942ba3ecee2fb2f3952e58509
+  theme_id: "861896731"
+  bucket_size: 40
+  refill_rate: 2
+  ignore_files:
+    - "*.swp"
+    - "*~"
+    - "config/settings_data.json"
